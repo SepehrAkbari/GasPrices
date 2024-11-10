@@ -1,3 +1,5 @@
+![Frame 2](https://github.com/user-attachments/assets/edba04b2-d54b-4228-b6d0-a6b832cee304)
+
 # Imputing Daily Gas Prices
 
 ## Overview
