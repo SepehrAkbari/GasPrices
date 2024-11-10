@@ -33,3 +33,30 @@ Install any missing packages using:
 ```bash
 pip install pandas numpy matplotlib scikit-learn
 ```
+
+## Usage
+
+1. Clone the repository
+
+```bash
+git clone <repository_url>
+cd <repository_name>
+```
+
+2. Run the Jupyter notebook (main.ipynb) to see the complete analysis. The notebook will:
+   
+- Load the data
+- Apply both Linear Approximation and Taylor Series methods
+- Generate visual comparisons of the imputation methods
+
+## Visualizations
+
+Several plots illustrate the effectiveness of each method, particularly highlighting Taylor Series’ strength in capturing variability. Ensure matplotlib is installed to view these.
+
+## Repository
+
+The full code, analysis, and results are available in this repository. Contributions are welcome to explore additional imputation methods or expand on the findings.
+
+## License
+
+This project is open-source under the MIT License.
